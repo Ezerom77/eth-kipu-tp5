@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.22;
+pragma solidity ^0.8.30;
 
 /// @title Interface to interact with the Grader5 contract
 /// @notice Defines the necessary functions to interact with the Grader5 contract

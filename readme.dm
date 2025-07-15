@@ -4,7 +4,8 @@
 
 This repository contains the `Ezerom77.sol` contract developed as a submission for the Module 5 Practical Assignment. The contract is designed to interact with an evaluator contract called `Grader5` through a defined interface.
 
-- contract address:
+- contract address: 0xAC516e5768F37B4421F88a1a8f1e95F44Cf2a2A6
+- url: https://sepolia.etherscan.io/address/0xac516e5768f37b4421f88a1a8f1e95f44cf2a2a6
 
 ## Functionality
 
